@@ -27,6 +27,9 @@ export default function AuthLayout({children}: any) {
         className={`${geistSans.variable} ${geistMono.variable} antialiased`}
       >
         {/* <Header /> */}
+        <div>
+          
+        </div>
         {children}
         {/* <Footer /> */}
       </body>
