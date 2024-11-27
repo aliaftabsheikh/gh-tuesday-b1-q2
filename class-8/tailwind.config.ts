@@ -15,27 +15,27 @@ const config: Config = {
     },
     screens:{
       // MIN_WIDTH
-      "max-sm": { 'max': '480px' },
-      "sm": "480px",
-      "md":  "640px",
-      "lg": "780px",
-      "xl": "892px",
-      "2xl": "1028px",
-      "3xl": "1248px"
+      // "max-sm": { 'max': '480px' },
+      // "sm": "481px",
+      // "md":  "640px",
+      // "lg": "780px",
+      // "xl": "892px",
+      // "2xl": "1028px",
+      // "3xl": "1248px"
 
       // MAX_WIDTH
 
-      // '2xl': { 'max': '1535px' },
+      '2xl': { 'max': '1535px' },
 
-      // 'xl': { 'max': '1279px' },
+      'xl': { 'max': '1279px' },
 
-      // 'lg': { 'max': '1023px' },
+      'lg': { 'max': '1023px' },
 
-      // 'md': { 'max': '767px' },
+      'md': { 'max': '767px' },
 
-      // 'sm': { 'max': '639px' },
+      'sm': { 'max': '639px' },
 
-      // 'xs': { 'max': '428px'},
+      'xs': { 'max': '428px'},
 
     }
 
