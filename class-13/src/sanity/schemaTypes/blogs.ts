@@ -11,6 +11,7 @@ export default {
         type: 'string',
         description: 'The title of the blog post.',
       },
+      
       {
         name: 'slug',
         title: 'Slug',
@@ -18,6 +19,7 @@ export default {
         description: 'The slug of the blog post.',
       
       },
+      
       {
         name: 'image',
         title: 'Image',
