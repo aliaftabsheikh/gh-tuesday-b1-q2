@@ -118,9 +118,11 @@ export default function Home() {
 
 //! USECONTEXT HOOK
 
-{/* <UserContext.Provider value={{name: "Ali", class: "GIAIC", day: "Tuesday", timing: "2 TO 5"}} >
+{
+  /* <UserContext.Provider value={{name: "Ali", class: "GIAIC", day: "Tuesday", timing: "2 TO 5"}} >
     <ChildOne />
-</UserContext.Provider> */}
+</UserContext.Provider> */
+}
 
 
   );
