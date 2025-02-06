@@ -23,7 +23,7 @@ const page = () => {
   }, []);
 
   return (
-    <>
+    
       <div className="text-2xl text-center font-bold">Todo list</div>
       <div></div>
 
